@@ -1,6 +1,7 @@
 # Streamlit + Marimo + Anywidget Integration Guide
 
 A comprehensive guide to creating a Streamlit web app that integrates Marimo (reactive Python notebooks) and Anywidget (custom interactive widgets), using UV as the package manager.
+https://morimo-js-app.streamlit.app
 
 ## Table of Contents
 
@@ -647,4 +648,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 **Happy Coding! 🚀**
+
 
